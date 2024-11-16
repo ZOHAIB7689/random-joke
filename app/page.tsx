@@ -1,8 +1,8 @@
 'use client'
-import Calculator from "@/components/calculator";
+import Joke from "@/components/jokeMaker";
 export default function Home() {
   return (<div>
-    <Calculator />
+    <Joke />
   </div>  
   );
 }
